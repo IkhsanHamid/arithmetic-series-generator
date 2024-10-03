@@ -7,7 +7,7 @@ This project is a simple arithmetic series generator that takes an input number 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/arithmetic-series-generator.git
+   git clone https://github.com/IkhsanHamid/arithmetic-series-generator
    cd arithmetic-series-generator
    ```
 
